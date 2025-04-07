@@ -1,5 +1,7 @@
+
 # DATA_ANALYSIS_TASK_1
-Data cleaning and preprocessing of a raw movie dataset from Kaggle using python
+Data cleaning and preprocessing of a raw movie dataset from Kaggle using Python
+
 # 🎬 Movie Dataset - Data Cleaning & Preprocessing
 
 This project involves cleaning and preprocessing a raw movie dataset from Kaggle using Python (Pandas). The goal is to handle missing values, remove duplicates, standardize formats, and prepare the dataset for further analysis or visualization.
@@ -45,6 +47,25 @@ This project involves cleaning and preprocessing a raw movie dataset from Kaggle
 
 6. **Verified and Fixed Data Types**
    - Ensured `release_year` is integer and `date_added` is datetime.
+
+---
+
+## 📊 Results and Insights
+
+### 1. Count of Movies/TV Shows by Rating
+![Rating Count](rating.png)
+- The most frequent rating is **TV-MA**, followed by **TV-14** and **R**.
+- This indicates a dominance of mature content on the platform.
+
+
+### 2. Average Movie Duration by Rating
+![Rating Count](avg_duration.png)
+- The bar for **TV-G** appeared unusually high due to inconsistent values or outliers. Requires further inspection.
+- Other ratings had average durations within typical feature-length ranges.
+
+### 3. Count of Movies vs TV Shows
+![Rating Count](movie_vs_tvshows.png)
+- **Movies** significantly outnumber **TV Shows** in the dataset, indicating a content-heavy focus on movies.
 
 ---
 
