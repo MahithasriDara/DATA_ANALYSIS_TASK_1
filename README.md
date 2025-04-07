@@ -2,7 +2,7 @@
 Data cleaning and preprocessing of a raw movie dataset from Kaggle using python
 # 🎬 Movie Dataset - Data Cleaning & Preprocessing
 
-This project involves cleaning and preprocessing a raw movie dataset from Kaggle using Python (Pandas) and Excel. The goal is to handle missing values, remove duplicates, standardize formats, and prepare the dataset for further analysis or visualization.
+This project involves cleaning and preprocessing a raw movie dataset from Kaggle using Python (Pandas). The goal is to handle missing values, remove duplicates, standardize formats, and prepare the dataset for further analysis or visualization.
 
 ---
 
