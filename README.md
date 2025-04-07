@@ -51,6 +51,7 @@ This project involves cleaning and preprocessing a raw movie dataset from Kaggle
 ## 📄 Files Included
 
 - `Data Cleaning and Preprocessing.ipynb` – Jupyter Notebook with full code.
+- `netflix_titles.csv` - Raw movie dataset.
 - `cleaned_netflix_dataset.csv` – Final cleaned dataset.
 - `README.md` – Project summary and documentation.
 
